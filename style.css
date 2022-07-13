@@ -1,0 +1,169 @@
+.header {
+   align-items: center;
+   justify-content: center;
+   display: ;
+   background-color: ;
+   width: 1200px;
+   height: 140px;
+   padding:  45px;
+   margin: 0 auto;
+   border: 5px;
+   border-radius: 10px;
+   filter: blur 1500px 200px;
+   
+
+}
+.container {
+   justify-content: ;
+   display: flex;
+   background-color: blue;
+   height: 70px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+
+}
+.container a {
+   font-family: sans-serif;
+   width: 100px;
+   color: white;
+   justify-content: ;
+   display: flex;
+   padding: 17px;
+   padding-left: 10px ;
+}
+.navbar {
+}
+
+.menu {
+   font-weight: bold;
+   color: blue;
+   height: 70px;
+   justify-content: center;
+   display: flex;
+   background-color: yellow;
+   border-bottom-right-radius: 10px;
+   border-bottom-left-radius: 10px;
+}
+
+.menu a {
+   padding: 17px;
+   text-decoration: none;
+}
+.container a {
+   font-family: times new roman;
+   font-size: 20px;
+   text-decoration: none;
+}
+.container a:hover {
+    color: blue;
+    background-color: yellow;
+}
+
+.menu :hover {
+    color: yellow;
+    background-color: blue;
+    transform: scaleY(1.1);
+}
+
+.brand-name {
+   font-family: unset;
+   font-weight: bold;
+   color: white;
+   font-size: 25px;
+   width: 800px;
+   padding: px;
+   margin-top: 7px;
+   margin-left: 100px;
+}
+
+body {
+   background-image: url(https://www.crushpixel.com/big-static18/preview4/student-education-showing-pointing-marketing-2921296.jpg);
+   background-repeat: no-repeat;
+   background-size: 1600px 750px;
+   tras
+}
+.lern p {
+   font-size: 50px;
+   font-family: serif;
+   text-align: center;
+}
+h2 {
+   text-align: center;
+   padding-top: 50px;
+
+}
+.p1 {
+   color: #4169E1;
+   font-weight: bold;
+}
+.p2 {
+   color: gold;
+   font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+/* REGISTR */
+
+
+
+.registr {
+   background-color: ;
+   width: 470px;
+   height: 490px;
+   border: 10px;
+   margin-left: 800px ;
+   text-align: center;
+   border-top: 7px solid blue;
+   border-bottom: 7px solid blue;
+   border-right: 5 px solid yellow;
+
+   border-radius: 50px;
+   margin-bottom: 50px ;
+}
+.naz {
+   font-size: 25px;
+}
+.input{
+   margin: 0 auto;
+}
+
+
+.nokeys a{
+   margin: 0 auto;
+}
+.come {
+   margin: 0 auto;
+   background-color: blue;
+   color: red;
+   width: 150px;
+   height: 50px;
+}
+.come a {
+   color: white;
+   text-decoration: none;
+
+}
+.avtorisation {
+   font-family: Verdana;
+   
+}
+.b1 {
+   font-family: Trebuchet MS;
+   font-size: 35px;
+   color: blue;
+   font-weight: bold;
+}
+.b2 {
+   font-family: Trebuchet MS;
+   font-size: 30px;
+   color: gold;
+   font-weight: bold;
+
+}
